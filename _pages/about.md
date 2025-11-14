@@ -1,6 +1,6 @@
 ---
 permalink: /
-# title: "Junyeol Yu"
+title: "Junyeol Yu (유준열)"
 author_profile: true
 redirect_from: 
   - /about/
